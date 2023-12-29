@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Cambira';
+  font-style: auto;
+  font-weight: 700;
+  src: url("../fonts/Cambira/cambriab.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500&family=Open+Sans:wght@300&display=swap');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+button, a {
+  cursor: pointer;
+}
+
+
